@@ -1,0 +1,11 @@
+#+TITLE: Notes
+#+AUTHOR: Haider M
+#+DATE: [2022-02-06 Sun]
+:PROPERTIES:
+#+OPTIONS:
+:END:
+
+* Notes
+This repository contains my personal collection of notes.
+These Notes are all linked and created via OrgRoam.
+OrgRoam is based of Roam which uses the [[https://en.wikipedia.org/wiki/Zettelkasten][Zattelkasten]] system.
