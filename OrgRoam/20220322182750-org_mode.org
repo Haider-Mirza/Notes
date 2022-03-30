@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:       31075352-280e-4ef1-978e-5c189da43657
-:END:
-#+title: Org Mode
-#+date: [2022-03-22 Tue 18:27]
-
-* Org Mode
-Org mode, the overpowered feature of Emacs that just makes you go "WOW".
