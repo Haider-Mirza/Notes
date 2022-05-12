@@ -8,4 +8,9 @@
 ** Current
 Electric current is the rate of flow of electrical charge.
 *** Calculating current
-$I= \frac{Q}{T}$
+You can calculate current with the formula
+Current is measured in Amps(A) and is represented as 'I'.
+
+$Current in Amps = \frac{charge in Coulombs}{time in seconds}$
+or:
+$I = \frac{Q}{T}$
