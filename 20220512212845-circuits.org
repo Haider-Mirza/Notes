@@ -17,13 +17,16 @@ At it's core, Current is the amount of charge in coulomb passing in one second
 *** Coulomb's Law
 I really wont go into this as I do not understand it enough but here is the gist of it:
 [[https://www.haider.gq/images/do-not-delete/Notes/coulomb-law.png]]
-
 $F = K_e \frac{q_1 \times q_2}{r^2}$
 
 In other words, Coulomb's law states that the electric force between two static charges is proportional to the product of their charges divided by the square of their distance ** Current
+
+** Current
 An electric current is a stream of charged particles, such as electrons or ions, moving through an electrical conductor or space.
 *NOTE:* Electrons have a negative charge and flow from negative to postitive. Current is positive to negative.
 (When scientists discovered that electron moves from negative to positive instead of positive to negative, they just left current as it is as all calculations will still work)
+
+At it's core, Current is the amount of charge in coulomb passing in one second
 
 *** Calculating current
 You can calculate current with the formula
