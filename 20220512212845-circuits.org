@@ -20,6 +20,14 @@ $Voltage = \frac{work(energy)}{q(charge)}$
 Charles-Augustin de Coulomb said that there was obviously something flowing inside a conductive medium, like a fluid. He called that electric charge.
 The unit for electric charge is Coulomb, and it's symbol is "q".
 
+charge = current × time
+$Q = I \times t$
+
+This is when:
+charge (Q) is measured in coulombs (C)
+current (I) is measured in amps (A)
+time (t) is measured in seconds (s)
+
 *** Coulomb's Law
 I really wont go into this as I do not understand it enough but here is the gist of it:
 [[https://www.haider.gq/images/do-not-delete/Notes/coulomb-law.png]]
