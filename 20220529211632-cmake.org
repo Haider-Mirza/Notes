@@ -1,8 +1,8 @@
 :PROPERTIES:
-:ID:       be204e3a-daea-4acf-b979-4027fdae72dc
+:ID:       6a25d10a-fc17-4659-a714-0b7716d9de25
 :END:
 #+title: CMake
-#+date: [2022-05-29 Sun 19:20]
+#+date: [2022-05-29 Sun 21:16]
 
 * CMake
 [[https://cmake.org/][CMake]], probably one of my favourite tools for development.
@@ -24,4 +24,3 @@ You could use [[https://github.com/rizsotto/Bear][Bear]], even though I never go
 
 But CMake, this legend, has a inbuilt variable!
 Just enable "CMAKE_EXPORT_COMPILE_COMMANDS", see the webpage [[https://cmake.org/cmake/help/latest/variable/CMAKE_EXPORT_COMPILE_COMMANDS.html][here]].
-
