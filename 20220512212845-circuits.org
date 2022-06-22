@@ -3,6 +3,7 @@
 :END:
 #+title: Circuits
 #+date: [2022-05-12 Thu 21:28]
+#+filetags: Physics
 
 * Electrical circuits
 ** Voltage
