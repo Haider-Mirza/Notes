@@ -5,6 +5,10 @@
 #+date: [2022-06-03 Fri 12:07]
 
 * Maths 
+[[id:797f4582-bc89-4b36-b5be-5b4018f777af][Surds]]
+
+* Old
+These are deprecated, No support for these.
 ** Algebraic Products
 + [[id:ffa6cfbc-bc83-4e1c-9ef3-7e73e62ebe0f][Expanding brackets]]
 + [[id:45563cdc-1356-4247-b920-123f7bd04ae2][Perfect squares]]
