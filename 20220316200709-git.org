@@ -16,3 +16,6 @@ There are many other alternatives like Sourcehut, Gitlab and savannah that [[id:
 
 Git [[id:07ab67b2-028c-4ce8-8ff3-9df904c4aa99][SSHs]] into Github's servers and manages your program files.
 Github can also use your [[id:b69627d6-3ade-4eba-9e19-23a40248b3cb][GPG]] keys to sign commits. (I never use this feature though).
+*** Common issues
+**** Commits are not shown in graph
+Happens to me all the time, make sure your email settings is the same in Github and =~/.git-config=
